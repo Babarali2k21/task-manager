@@ -1,0 +1,23 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data files (don’t commit your task history)
+data/*.json
